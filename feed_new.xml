@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2026-06-28 15:10">
+  <shop>
+    <name>SAFRSTT</name>
+    <company>SAFRSTT</company>
+    <url>https://safrstt.com</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Не указана</category>
+      <category id="3">Мужские джинсы из сырого денима</category>
+      <category id="4">Мужские джинсы из стиранного денима</category>
+      <category id="5">SELVEDGE DENIM</category>
+      <category id="12">Черные мужские джинсы</category>
+      <category id="25">Мужские джинсовые шорты из селвидж денима</category>
+    </categories>
+    <offers>
+      <offer id="1" available="true" group_id="4194143">
+        <name>Мужские летние джинсовые шорты SAFRSTT 101BLB-S из селвидж денима</name>
+        <url>https://safrstt.com/products/muzhskie-dzhinsovye-shorty-safrstt-101blb-s-blue-line-id-100236</url>
+        <price>5690</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>25</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101BL-B-S</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21055393/rzj555p9npr75bztk2xp7tclmfxnhp2l/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21055393/p75lb54c44fzlkjw5lcmsvjhs9sf2k6h/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21055393/4qcv8zq9p8rwtb54lrh92r4wkjcfwrjn/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21044143/zlm5gqmx8zd7vsjgtq4gnqrmtwrrx92q/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/h44ksqmvj5ql6mvtdl5ncqw49frtbm68/orig</picture>
+        <description><![CDATA[Купить мужские летние джинсовые шорты SAFRSTT 101BLB-S из плотного селвидж денима 13.5 oz. Тёмно-синий, прямой крой Regular Fit, 100% хлопок, доставка по России.]]></description>
+        <param name="Вид застежки">Молния</param>
+        <param name="Цвет">Темно-синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Средняя</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Лето</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">13.5Oz</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30</param>
+      </offer>
+      <offer id="2" available="true" group_id="911198">
+        <name>Мужские летние джинсовые шорты SAFRSTT 101BL-S из селвидж денима</name>
+        <url>https://safrstt.com/products/muzhskie-dzhinsovye-shorty-safrstt-101bl-s-blue-line-id-100235</url>
+        <price>5690</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>25</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101BL-S</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21044143/7trc2qhhtjb2k2qjk6bh5spr8ndqpz9x/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21044143/77lh78j2ph5pbnxh8llx678lgh4lnfvr/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/qfps6xrqv256k7mbj66fhlzrnz2txk7j/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21055393/ktgbc9p2zmncrs77vt6gc82xrpsjrmxm/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21055393/glgc9926zp9t9nn45j5z2cthtmq5ldq9/orig</picture>
+        <description><![CDATA[Купить мужские летние джинсовые шорты SAFRSTT 101BL-S из плотного селвидж денима 13.5 oz. Синий, прямой крой Regular Fit, 100% хлопок, доставка по России. Помощь с размером.]]></description>
+        <param name="Вид застежки">Молния</param>
+        <param name="Цвет">Синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Средняя</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Лето</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">13.5Oz</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30</param>
+      </offer>
+      <offer id="3" available="true" group_id="6979883">
+        <name>Мужские летние джинсовые шорты SAFRSTT 101RL-S из селвидж денима</name>
+        <url>https://safrstt.com/products/muzhskie-dzhinsovye-shorty-safrstt-101rlb-s-red-line-id-100234</url>
+        <price>5690</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>25</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101RL-S</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/9dv8z7tp9j8wf9klnppkjgvjr6vl294f/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21055393/tk6c8s9tzd9pq57mjsh29dphglmbk96x/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21055393/q2nvsjmwfh29jb966cmkrz6jmqxgt5fb/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21055393/qw4dzmlwxmhdj9bkfp5f5k4cqkpp95kf/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21044143/97r494rmjdcvwsv95hrl2vl4dnf5mm7q/orig</picture>
+        <description><![CDATA[Купить мужские летние джинсовые шорты SAFRSTT 101RL-S из плотного селвидж денима 13.5 oz. Тёмно-синий и синий, прямой крой Regular Fit, 100% хлопок, доставка по России.]]></description>
+        <param name="Вид застежки">Молния</param>
+        <param name="Цвет">Темно-синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Средняя</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Лето</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">13.5Oz</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30</param>
+      </offer>
+      <offer id="4" available="true" group_id="5747318">
+        <name>Прямые джинсы GAINTT 101RLLB2-Z из стиранного селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/101rllb2-z-washed-selvedge-14oz-100231</url>
+        <price>7390</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101RL32/34LB2-Z</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19260921/lb85zfmc95qjdrdc2hcldjrfdkvc26l5/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20412565/lf7l9ssrrqrvlr6mqlzcdl6qk2tkmssd/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19393785/tnwtjs4t69xkcrrn47z2x962v5gg27d5/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20412565/rzxhtg6hjctmxp8v8w4dt8xsg8qk429l/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19260921/6dwkk2dlglzfm97gcd5cdq6hzkh56nsb/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101RLLB2-Z из стиранного селвидж денима 14 oz. Светло-синий, Straight Fit, молния YKK, 100% хлопок. Доставка по России. Помощь с размером.]]></description>
+        <param name="Вид застежки">Молния</param>
+        <param name="Цвет">светло-синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">стиранный деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L32</param>
+      </offer>
+      <offer id="5" available="true" group_id="5747318">
+        <name>Прямые джинсы GAINTT 101RLSLB-B из стиранного селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/101rlslb-b-washed-selvedge-14oz-100230</url>
+        <price>6890</price>
+        <oldprice>7240</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101RL32/34LB2-B</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19260921/lb85zfmc95qjdrdc2hcldjrfdkvc26l5/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20412565/lf7l9ssrrqrvlr6mqlzcdl6qk2tkmssd/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19393785/tnwtjs4t69xkcrrn47z2x962v5gg27d5/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20412565/rzxhtg6hjctmxp8v8w4dt8xsg8qk429l/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19393785/j7h4hlhxc5fbzsxgfbvwx6k48cp5tbl8/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101RLSLB-B из стиранного селвидж денима 14 oz. Светло-синий, Straight Fit, ширинка на болтах, 100% хлопок. Доставка по России.]]></description>
+        <param name="Вид застежки">Пуговицы</param>
+        <param name="Цвет">светло-синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">стиранный деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L34</param>
+      </offer>
+      <offer id="6" available="true" group_id="5747318">
+        <name>Прямые джинсы GAINTT 101RLDB2-Z из стиранного селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/101rldb2-z-selvedge-14oz-washed-100229</url>
+        <price>7390</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101RL32/34DB2-Z</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19393785/g686td4sbzjnbgdrzs5tm8qswqnkztq5/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20412565/bvdgmpn42zrtfsmctm65x67k9gv5dv6n/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19825297/tqz9bvzl6xhn4c4rml622bhptm7tj2st/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20412565/jh868qv9xxh4mpzld7sgk8jpmr57bzvd/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20412565/q7hvhzmhl7v8m6vg57vdmbn8jczfdh87/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101RLDB2-Z из стиранного селвидж денима 14 oz. Тёмно-синий, Straight Fit, молния YKK, 100% хлопок. Доставка по России. Помощь с размером.]]></description>
+        <param name="Вид застежки">Молния</param>
+        <param name="Цвет">темно-синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">стиранный деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L32</param>
+      </offer>
+      <offer id="7" available="true" group_id="6132558">
+        <name>Прямые джинсы GAINTT 101BLSLB-Z из стиранного селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/101blslb-z-washed-selvedge-14oz-100228</url>
+        <price>7390</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101BL32/34SLB-Z</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19260921/nbd4w88h2xzn8gvvbzk7rwxnhxbtfvfj/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20412565/2bfwgznqwwnmkmlgj589fk2bp7x5jhvl/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19260921/bnt45jjz5zpkrrrd2zbn5c95nbntxj8g/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19260921/bjwzp5sfhfcxjrfnwjfpfcrpzgz294rt/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19393785/qgzlbvx52tgdhzsmd6wn7rbs76fwsgc8/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101BLSLB-Z из стиранного селвидж денима 14 oz. Светло-синий, Straight Fit, молния YKK, 100% хлопок. Доставка по России. Помощь с размером.]]></description>
+        <param name="Вид застежки">Молния</param>
+        <param name="Цвет">светло-синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">стиранный деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L32</param>
+      </offer>
+      <offer id="8" available="true" group_id="6132558">
+        <name>Прямые джинсы GAINTT 101BLSDB-Z из стиранного селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/101blsdb-z-washed-selvedge-14oz-100227</url>
+        <price>7390</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101BL32/34SDB-Z</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19393785/lhrv95vpmr8vggmb7pkh7nfrz9wt4cwk/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19393785/6hmchtspm8v9gbvjwnghwjs7lqdqvqzl/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20412565/f8bvpxq4xpn2shnt2xjt2c56tld2k6fp/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20412565/lgvxk2fs7xg6zw84wr9h2jqcvd9hzjnr/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19393785/6wt5j749gbrwnlvfsjvsldhh9gbhhxww/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101BLSDB-Z из стиранного селвидж денима 14 oz. Тёмно-синий, Straight Fit, молния YKK, 100% хлопок. Доставка по России. Помощь с размером.]]></description>
+        <param name="Вид застежки">Молния</param>
+        <param name="Цвет">темно-синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">стиранный деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L32</param>
+      </offer>
+      <offer id="9" available="true" group_id="6132558">
+        <name>Прямые джинсы GAINTT 101BLSB-Z из стиранного селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/101blsb-z-washed-selvedge-14oz-100226</url>
+        <price>7390</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101BL32/34SB-Z</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19260921/jxsbl9z56m97ml6ftdcbw8qtc7h62lll/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19393785/f8mqwrngssc75fbvjld5khxw2gqcl29w/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20918687/g5ffxv49xzwcs8pkzcc2hrmpvwnp2v45/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21055393/n89fpz4x2xkcwnlbszdcsvvqldr9z4bm/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19393785/jsdv5nkzqgsdj5ddfvhccc8p74d5mm9q/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101BLSB-Z из стиранного селвидж денима 14 oz. Синий, Straight Fit, молния YKK, 100% хлопок. Доставка по России. Помощь с подбором размера.]]></description>
+        <param name="Вид застежки">Молния</param>
+        <param name="Цвет">синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">стиранный деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L32</param>
+      </offer>
+      <offer id="10" available="true" group_id="6132558">
+        <name>Прямые джинсы GAINTT 101BLS-Z из сырого селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/101bls-z-raw-selvedge-14oz-indigo-100225</url>
+        <price>7190</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101BL32/34S-Z</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19393785/8pvgbkbkg4rwszc7rb2c47w2vv8j6lwx/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20412565/vm992zqqqr8n7rjqltwd2thfmnsxtthp/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/21055393/spx9fbl8jprd4rw7rzpq75xmkxf8mwmj/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19393785/l8bbpl95hffhxs8fzzf2f2wpwflnpl75/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19393785/6cwthplfhvn5xsrls5h8slb2p59zhrqm/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101BLS-Z из сырого селвидж денима 14 oz. Индиго, Straight Fit, молния YKK, 100% хлопок. Доставка по России, помощь с размером.]]></description>
+        <param name="Вид застежки">Молния</param>
+        <param name="Цвет">темно-синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">сырой деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L32</param>
+      </offer>
+      <offer id="11" available="true" group_id="6132558">
+        <name>Прямые джинсы GAINTT 101BLS-B из сырого селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/101bls-b-raw-selvedge-14oz-indigo-100224</url>
+        <price>7190</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101BL32/34S-B</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19393785/pvc7zzwjsbdsvr7x6zx4tlk9wkd5dgjs/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20412565/fcgvs2h2fbftvn4fllt2lvz5vs85ls6p/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19393785/bpn4wxbbj26pthhznkmcmj4htcbwqtjp/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20412565/nr46bjhq562v9vmwfkktpz6rhch82rld/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19393785/wchvzwz98fl7745mtv8d8zzx687ftsng/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101BLS-B из сырого селвидж денима 14 oz. Индиго, Straight Fit, ширинка на болтах, 100% хлопок. Доставка по России, помощь с размером.]]></description>
+        <param name="Вид застежки">Пуговицы</param>
+        <param name="Цвет">темно-синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">сырой деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L32</param>
+      </offer>
+      <offer id="12" available="true" group_id="7035170">
+        <name>Прямые джинсы GAINTT 101RBW-B Rainbow из сырого селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/101rbw-b-rainbow-selvedge-14oz-raw-100223</url>
+        <price>7290</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101RBW32/34-B</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19393785/mdthdtq4t6w9rqplpxh72mnmcz29w6b7/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/cn98jwbbns9wngkc2dxw46lqrvkhzdwv/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18145482/jqz8jznb8mllq6hfcc6l75fj427rvc2j/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18796383/dtlxdbb99c7zn4hjhgtds8n9c4mstkd4/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18796383/lwprbf5j4zqqmc5mh6fc2b42z7m6kgvq/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101RBW-B из сырого Rainbow селвидж денима 14 oz. Индиго, Straight Fit, ширинка на болтах, 100% хлопок. Доставка по России. Помощь с размером.]]></description>
+        <param name="Вид застежки">Пуговицы</param>
+        <param name="Цвет">темно-синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">сырой деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L32</param>
+      </offer>
+      <offer id="13" available="true" group_id="4220661">
+        <name>Прямые джинсы GAINTT 101YL-Z Nep из сырого селвидж денима 15 oz</name>
+        <url>https://safrstt.com/products/nep-selvedge-15oz-raw-101yl-100190</url>
+        <price>7580</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101YL32/34-Z</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/17761178/4jf9ttvlpqkpqrgq62xg82z86v6t299h/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19825297/ngxdbx49qlc4w8cmsd5qsg5zrkjfvmp8/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19825297/p65kg8t78crw27gw69fpts24vtw828px/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/l6wchwscbmtcn255p6jv288w982vbjrb/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/sp5lv8vdzt5tbbw8mdsj9tvtnsn58fzz/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101YL-Z из сырого nep селвидж денима 15 oz. Индиго, Straight Fit, молния YKK, 100% хлопок. Доставка по России, помощь с размером.]]></description>
+        <param name="Вид застежки">Молния</param>
+        <param name="Цвет">темно-синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">15Oz</param>
+        <param name="Тип ткани">сырой деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L32</param>
+      </offer>
+      <offer id="14" available="true" group_id="5747318">
+        <name>Прямые джинсы GAINTT 101RL-Z из сырого селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/selvedge-14oz-raw-101rlz-100170</url>
+        <price>7290</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101RL32/34-Z</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19297885/5nn9xmvgzf9n6fxhvlpgx5pnvd92kkfr/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20244883/j84gvdd58kxzxbsxdbdkg7t9c682hwf8/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20244883/hcj8dn2246dftf44vbg7957g57djcl6s/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/17761178/2bs8jtrrvmz4bss2dqwhfccwq7jcmwmz/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/mkcbb8mk6wswjg67frb4ls2d7dz526cg/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101RL-Z из сырого селвидж денима 14 oz. Индиго, Straight Fit, молния YKK, 100% хлопок. Доставка по России, помощь с размером.]]></description>
+        <param name="Вид застежки">Молния</param>
+        <param name="Цвет">темно-синий, индиго</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">сырой деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L32</param>
+      </offer>
+      <offer id="15" available="true" group_id="6132558">
+        <name>Прямые джинсы GAINTT 101BL-Z из сырого селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/selvedge-14oz-raw-101blz-100169</url>
+        <price>7240</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101BL32/34-Z</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20244883/7k4966j9w4lkwqclsnfttgvg9pbdlrp6/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20244883/dpb5tfz5586c98p9cqx4l9dtxd5hlc4h/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19297885/rprhhjrxgdxq4ld8t5z782bc2d765d75/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/17761178/2bs8jtrrvmz4bss2dqwhfccwq7jcmwmz/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/mkcbb8mk6wswjg67frb4ls2d7dz526cg/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101BL-Z из сырого селвидж денима 14 oz. Индиго, Straight Fit, молния YKK, 100% хлопок. Доставка по России, помощь с размером.]]></description>
+        <param name="Вид застежки">Молния</param>
+        <param name="Цвет">темно-синий, индиго</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">сырой деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L32</param>
+      </offer>
+      <offer id="16" available="true" group_id="7035170">
+        <name>Прямые джинсы GAINTT 101RBW-Z Rainbow из сырого селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/selvedge-14oz-raw-101rbw-z-100180</url>
+        <price>6890</price>
+        <oldprice>7290</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101RBW32/34-Z</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/2sqttkqx5zhv6mf2c5tgll88xmhm5t9h/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/kjk5xdtfslbcvjzwdvpfcf6mldtd857w/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/17761178/gdttft8zzmlntqpwxtgvvqmbwstrhrqd/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/17761178/2bs8jtrrvmz4bss2dqwhfccwq7jcmwmz/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/mkcbb8mk6wswjg67frb4ls2d7dz526cg/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101RBW-Z из сырого Rainbow селвидж денима 14 oz. Индиго, Straight Fit, молния YKK, 100% хлопок. Доставка по России. Помощь с подбором размера.]]></description>
+        <param name="Вид застежки">Молния</param>
+        <param name="Цвет">темно-синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">сырой деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L32</param>
+      </offer>
+      <offer id="17" available="true" group_id="4220661">
+        <name>Прямые джинсы GAINTT 101YL-B Nep из сырого селвидж денима 15 oz</name>
+        <url>https://safrstt.com/products/nep-selvedge-15oz-raw-101yl-b-100140</url>
+        <price>7580</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101YL32/34-B</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/17761178/4jf9ttvlpqkpqrgq62xg82z86v6t299h/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19825297/ngxdbx49qlc4w8cmsd5qsg5zrkjfvmp8/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19825297/p65kg8t78crw27gw69fpts24vtw828px/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/l6wchwscbmtcn255p6jv288w982vbjrb/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/sp5lv8vdzt5tbbw8mdsj9tvtnsn58fzz/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101YL-B из сырого nep селвидж денима 15 oz. Индиго, Straight Fit, ширинка на болтах, 100% хлопок. Доставка по России. Помощь с подбором размера.]]></description>
+        <param name="Вид застежки">Пуговицы</param>
+        <param name="Цвет">темно-синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">15Oz</param>
+        <param name="Тип ткани">сырой деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L32</param>
+      </offer>
+      <offer id="18" available="true" group_id="6132558">
+        <name>Прямые джинсы GAINTT 101BL-B из сырого селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/selvedge-14oz-wash-101bl-b-100139</url>
+        <price>7190</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101BL32/34-B</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/jl6xhqw8xs67flqdbs2qpwwfl24h2r4s/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/xnr6fklk6mhhmwhnclcwpbz5tsk9zzv4/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/5phnl7smrscqsgq9kljpv5cghlx49lzt/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/89d8bq6hr725ktf5n9km9shxz64qqfbq/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19825297/mm6xps2lf6qkthtnw8f7kzh4hb2cqrn8/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101BL-B из сырого селвидж денима 14 oz. Индиго, Straight Fit, ширинка на болтах, 100% хлопок. Доставка по России. Помощь с подбором размера.]]></description>
+        <param name="Вид застежки">Пуговицы</param>
+        <param name="Цвет">темно-синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">сырой деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L32</param>
+      </offer>
+      <offer id="19" available="true" group_id="5747318">
+        <name>Прямые джинсы GAINTT 101RL-B из сырого селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/selvedge-14oz-raw-101rlb-100143</url>
+        <price>7240</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101RL32/34-B</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19825297/pjdb6jwwr9wn4zb2q28xc2f44585xr9n/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19825297/5mls8kph49djxlbxn2zx7xxm2mrr6mxl/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20244883/wkjszlkv8hj5tr42zx5wsb6r2n4wn894/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19825297/wg4j7t9lvjxvcx7m8rhhtp6tk82ph6v5/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19825297/b96xxjwklmlhr2gcxbvb8gc6b6hqvq99/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101RL-B из сырого селвидж денима 14 oz. Индиго, Straight Fit, ширинка на болтах, 100% хлопок. Доставка по России. Помощь с подбором размера.]]></description>
+        <param name="Вид застежки">Молния</param>
+        <param name="Цвет">темно-синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">сырой деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L32</param>
+      </offer>
+      <offer id="20" available="true" group_id="5747318">
+        <name>Прямые джинсы GAINTT 101RLB2-Z из стиранного селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/selvedge-14oz-wash-101rlb2-z-100179</url>
+        <price>7240</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101RL32/34B2-Z</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18145482/8wrphmb84hv5crjz656b48ng9hhdfpsc/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18796383/x64dqsr9f687hcpx9vcrhf72rzl9wztq/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18145482/kl5jn494jdbpf6pk2ktdk4xmb8v6nxwc/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18145482/sbfxxqjkrhk9brjs6mdr7tmhlgwpvj2p/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20244883/tgfzc9497tgnnrjbxf7s9ph7k4p5jlj8/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101RLB2-Z из стиранного селвидж денима 14 oz. Тёмно-синий, Straight Fit, молния YKK, 100% хлопок. Доставка по России. Помощь с размером.]]></description>
+        <param name="Вид застежки">Молния</param>
+        <param name="Цвет">темно-синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">стиранный деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L32</param>
+      </offer>
+      <offer id="21" available="true" group_id="6132558">
+        <name>Прямые джинсы GAINTT 101BLSLB-B из стиранного селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/selvedge-14oz-wash-101blslb-b-100138</url>
+        <price>6890</price>
+        <oldprice>7240</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101BL32/34SLB-B</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/5xzfslxc995dflkxqx7kzmpxsvbk9mfx/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/w6jh466qf695hnjhdlk8tdwlnptn4wmf/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/xmgt6x8cpgmczv7jmfg42z24k2q9lhtx/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/qmkftbgrfn88pw85w9l44pvhc694scjj/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/6j6995h54vm82jf8slvslrlbjx6dcr2j/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101BLSLB-B из стиранного селвидж денима 14 oz. Светло-синий, Straight Fit, ширинка на болтах, 100% хлопок. Доставка по России.]]></description>
+        <param name="Вид застежки">Пуговицы</param>
+        <param name="Цвет">светло-синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">стиранный деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L32</param>
+      </offer>
+      <offer id="22" available="true" group_id="7619317">
+        <name>Прямые серые джинсы GAINTT 102RLG из стиранного селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/selvedge-14oz-wash-102rlg-z-100185</url>
+        <price>6890</price>
+        <oldprice>7290</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>102RL32/34G-Z</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18145482/8nkt6ctpw2jmdwt9tnqt626q9fksztq5/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18796383/6rbxth29sz2nwr6mblkz7zblbmpxhczj/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18796383/88dz4kls8qzzdxdh6psfv2dkz6k4j75c/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18796383/c4r4k7swgvmcf7px8xwgvdldw6q9dh48/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18796383/k6nqkqf5fzf6fvkht9256rdlnmzxg7bl/orig</picture>
+        <description><![CDATA[Купить прямые мужские серые джинсы GAINTT 102RLG из стиранного селвидж денима 14 oz. Straight Fit, молния YKK, 100% хлопок, длина L32/L34. Доставка по России, помощь с выбором.]]></description>
+        <param name="Вид застежки">Молния</param>
+        <param name="Цвет">серый</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">стиранный деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L32</param>
+      </offer>
+      <offer id="23" available="true" group_id="7619317">
+        <name>Прямые чёрные джинсы GAINTT 102RL из сырого селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/selvedge-14oz-raw-102rl-z-100186</url>
+        <price>6890</price>
+        <oldprice>7290</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>102RL32/34-Z</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/j2kxqstpzs82h6g2mpw5dmmj89sxsd7f/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/17774011/ms5nl9gvxjvzjnvclgr6ppb48j46xnpk/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18796383/m5htvg7qgxtmgdvpn44v5kqg5g5hq2gc/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/17774011/5mhqqjsvn4gv6f74w7p9h4wtf4j5k25v/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18796383/94pdjvj6b6pzdkd6vvddnqq7mhst79j5/orig</picture>
+        <description><![CDATA[Купить прямые мужские чёрные джинсы GAINTT 102RL из сырого селвидж денима 14 oz. Straight Fit, молния YKK, 100% хлопок, длина L32/L34. Доставка по России. Помощь с выбором.]]></description>
+        <param name="Вид застежки">Молния</param>
+        <param name="Цвет">черный</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">сырой деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L32</param>
+      </offer>
+      <offer id="24" available="true" group_id="7619317">
+        <name>Прямые чёрные джинсы GAINTT 102RLB-Z стиранный селвидж 14 oz</name>
+        <url>https://safrstt.com/products/selvedge-14oz-wash-102rlb-100181</url>
+        <price>6890</price>
+        <oldprice>7240</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>102RL32/34B-Z</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/17774011/kc299fkrp9p8mnjk7nmjvb7868pbbc44/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/17774011/w5trbbdbq5m6jlc72dm55qs449rhsssv/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18796383/z62lp6462q2zk8b88745psw7r2t8qq29/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18796383/4mpnhnk4s8dd79v52r5wvkqg89xktl9n/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18796383/kblhpn265hkbq8g84x2nqjskkw6ws2t8/orig</picture>
+        <description><![CDATA[Купить прямые мужские чёрные джинсы GAINTT 102RLB-Z из стиранного селвидж денима 14 oz. Straight Fit, молния YKK, 100% хлопок, длина L32/L34. Доставка по России.]]></description>
+        <param name="Вид застежки">Молния</param>
+        <param name="Цвет">черный</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">стиранный деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L32</param>
+      </offer>
+      <offer id="25" available="true" group_id="7619317">
+        <name>Прямые тёмно-серые джинсы GAINTT 102RLDG стиранный селвидж 14 oz</name>
+        <url>https://safrstt.com/products/selvedge-14oz-wash-102rldg-z-100187</url>
+        <price>6890</price>
+        <oldprice>7290</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>102RL32/34DG-Z</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/17774011/cfj72qfwzz5xrsfgnk9qtczksc8n6npn/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18796383/zqsrjsd4mhqrdkbmkpwwt6vq9lp8fp6f/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/2mvzlfdckr6rxwrnccp4x7qbq4tj8k2v/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/17774011/2trplrpw4xmmdsjmrdmwkph9b29czw4g/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18145482/pqmnn9b5s6nltdmv9x8vjlsjdh4jh4gr/orig</picture>
+        <description><![CDATA[Купить прямые мужские тёмно-серые джинсы GAINTT 102RLDG из стиранного селвидж денима 14 oz. Straight Fit, молния YKK, 100% хлопок, длина L32/L34. Доставка по России, помощь с выбором.]]></description>
+        <param name="Вид застежки">Молния</param>
+        <param name="Цвет">темно-серый</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">стиранный деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L32</param>
+      </offer>
+      <offer id="26" available="true" group_id="5747318">
+        <name>Прямые джинсы GAINTT 101RLLB из стиранного селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/selvedge-14oz-wash-101rllb-z-100182</url>
+        <price>7290</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101RL32/34LB-Z</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18796383/rrkn7h5cpzzfjr7hlx99d46n2v5d2286/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18145482/gx8sdkbgp485m922mn4wbsp7bmmlw27r/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18796383/m8pqz8nbxlb9cfs5dhx4qv7cfv24xh6k/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18796383/bz74gr7m87lbr7nrhv6xt5q9tz57jsl8/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/m652vkn4hmgjm6c6rjb9mlhhhwj26wqv/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101RLLB из стиранного селвидж денима 14 oz. Светло-синий, Straight Fit, молния YKK, 100% хлопок. Доставка по России, помощь с выбором.]]></description>
+        <param name="Вид застежки">Молния</param>
+        <param name="Цвет">светло-синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">стиранный деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W31/L32</param>
+      </offer>
+      <offer id="27" available="true" group_id="5747318">
+        <name>Прямые джинсы GAINTT 101RLB-Z из стиранного селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/selvedge-14oz-wash-101rlb-z-100184</url>
+        <price>6890</price>
+        <oldprice>7290</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101RL32/34B-Z</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18145482/8wrphmb84hv5crjz656b48ng9hhdfpsc/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18145482/kl5jn494jdbpf6pk2ktdk4xmb8v6nxwc/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18796383/4zkwxh2g9bpjpdblgj8vtdrjv7mvgzm6/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18145482/sbfxxqjkrhk9brjs6mdr7tmhlgwpvj2p/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18796383/x64dqsr9f687hcpx9vcrhf72rzl9wztq/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101RLB-Z из стиранного селвидж денима 14 oz. Синий, Straight Fit, молния YKK, 100% хлопок. Доставка по России. Помощь с подбором размера.]]></description>
+        <param name="Вид застежки">Молния</param>
+        <param name="Цвет">синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">стиранный деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W31/L32</param>
+      </offer>
+      <offer id="28" available="true" group_id="5747318">
+        <name>Прямые джинсы GAINTT 101RLDB из стиранного селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/selvedge-14oz-wash-101rldb-z-100183</url>
+        <price>7190</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101RL32/34DB-Z</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/hndlhprdnpbz2znt2h8kjtw5z9xk926c/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18145482/nkwh84frxr4rbkt5jgxpmg2pkn8sdfmp/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/17774011/c8q7t74hq9jwrhbvzb4jsj5lg5d5x2tv/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18796383/7bs72tnsls4dkmc6zhzdkvvbtsrbq57z/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18145482/lvw76ndgq96gg4vpfshwhxcgj7zhmgz9/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101RLDB из стиранного селвидж денима 14 oz. Тёмно-синий, Straight Fit, молния YKK, 100% хлопок. Доставка по России, помощь с выбором.]]></description>
+        <param name="Вид застежки">Молния</param>
+        <param name="Цвет">темно-синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">стиранный деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W31/L32</param>
+      </offer>
+      <offer id="29" available="true" group_id="5747318">
+        <name>Прямые джинсы GAINTT 101RLB2-B из стиранного селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/selvedge-14oz-wash-101rlb2-b-100147</url>
+        <price>7240</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101RL32/34B2-B</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20244883/5r7ljb8pt7gb7d9j9cn4jwqzxj972pc7/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19825297/g9s8bmcv5tj5kxlbh6l42xks9vhhx7n4/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19825297/zslfr4kx9qmc758qpxpt7ps5cxwc4hwj/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19825297/6td2jb8d8g6bbjhmlmlrgn828nzntdsf/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/17761178/d95mlnf4rbgvf46fvpbltxxpc589dfq6/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101RLB2-B из стиранного селвидж денима 14 oz. Тёмно-синий, Straight Fit, ширинка на болтах, 100% хлопок. Доставка по России.]]></description>
+        <param name="Вид застежки">Молния</param>
+        <param name="Цвет">темно-синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">стиранный деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L34</param>
+      </offer>
+      <offer id="30" available="true" group_id="5747318">
+        <name>Прямые джинсы GAINTT 101RLDB2-B из стиранного селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/selvedge-14oz-wash-101rldb2-b-100142</url>
+        <price>7240</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101RL32/34DB2-B</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19825297/tgw4hf4rknk2gs6t7d9m5vp2lmg5s8p6/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/s759n4t5vh7xfztfwmr5bt57zg54hqmc/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/nz5ck7zcrcd5cpdwjgwf6mbbnvlbtdsg/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/5k59lqjhdsnzrj4jcjmmlmnbgn9g75hh/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/trdlbzsjk8k4sqg77z4jjr4gjr6z6vqf/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101RLDB2-B из стиранного селвидж денима 14 oz. Тёмно-синий, Straight Fit, ширинка на болтах, 100% хлопок. Доставка по России.]]></description>
+        <param name="Вид застежки">Пуговицы</param>
+        <param name="Цвет">темно-синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">стиранный деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L34</param>
+      </offer>
+      <offer id="31" available="true" group_id="6132558">
+        <name>Прямые джинсы GAINTT 101BLSDB-B из стиранного селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/selvedge-14oz-wash-101blsdb-b-100146</url>
+        <price>7240</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101BL32/34SDB-B</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20244883/hjrd4k2tkt2c2v9ldjpsxhjqmbdspc56/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19825297/8svzmj87tlv2w4hjlvrzr2vf9rwmmqsx/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19825297/tqz9bvzl6xhn4c4rml622bhptm7tj2st/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/19825297/2bjks2nktq5rv4cb6zt66q54frrk9rzx/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/20244883/tmtq67rvnj9rtwxgtkxt8s8d8bbrjhvr/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101BLSDB-B из стиранного селвидж денима 14 oz. Тёмно-синий, Straight Fit, ширинка на болтах, 100% хлопок. Доставка по России.]]></description>
+        <param name="Вид застежки">Молния</param>
+        <param name="Цвет">темно-синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">стиранный деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L34</param>
+      </offer>
+      <offer id="32" available="true" group_id="6132558">
+        <name>Прямые джинсы GAINTT 101BLSB-B из стиранного селвидж денима 14 oz</name>
+        <url>https://safrstt.com/products/selvedge-14oz-wash-101blsb-b-100145</url>
+        <price>7240</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <vendor>SAFRSTT</vendor>
+        <vendorCode>101BL32/34SB-B</vendorCode>
+        <picture>https://avatars.mds.yandex.net/get-yastore/17761178/sl5fwhmxdn9r6btfq7rrk6fwdzr2sdmm/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/17761178/4gd5ppn44r8pqqlcwkk9b6ckzw7j8jtq/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/vcpdxvmszkdkd92wwfq88qscphg8xt69/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/lrkx9m7c872h4jqzdkpvqb6qkzr9htxl/orig</picture>
+        <picture>https://avatars.mds.yandex.net/get-yastore/18104899/qkq6lql772bsfn74lt6mwnndhvsmh2bp/orig</picture>
+        <description><![CDATA[Купить прямые мужские джинсы GAINTT 101BLSB-B из стиранного селвидж денима 14 oz. Синий, Straight Fit, ширинка на болтах, 100% хлопок. Доставка по России. Помощь с размером.]]></description>
+        <param name="Вид застежки">Пуговицы</param>
+        <param name="Цвет">синий</param>
+        <param name="Состав материала">хлопок 100%</param>
+        <param name="Тип посадки">Высокая</param>
+        <param name="Покрой">прямой</param>
+        <param name="Пол">Мужской</param>
+        <param name="Сезон">Демисезон</param>
+        <param name="Страна производства">Китай</param>
+        <param name="Плотность ткани">14Oz</param>
+        <param name="Тип ткани">стиранный деним</param>
+        <param name="Модель джинсов">Regular Fit</param>
+        <param name="Уход за вещами">стирка при t не более 30°C, стирать отдельно, стирать изнанкой наружу</param>
+        <param name="Размер">W30/L34</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
